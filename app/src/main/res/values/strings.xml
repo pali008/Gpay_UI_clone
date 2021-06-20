@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Gpay clone</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="people">People</string>
+    <string name="todo4">TODO</string>
+    <string name="todo5">TODO</string>
+    <string name="todo6">TODO</string>
+    <string name="todo7">TODO</string>
+    <string name="todo8">TODO</string>
+    <string name="todo9">TODO</string>
+    <string name="todo10">TODO</string>
+    <string name="todo11">TODO</string>
+    <string name="celion">Celion</string>
+    <string name="johnhonai">Johnhonai</string>
+    <string name="pughal">Pughal</string>
+    <string name="manohar">Manohar</string>
+    <string name="alice">Alice</string>
+    <string name="aisha">Aisha</string>
+    <string name="sherlock">Sherlock</string>
+    <string name="james">James</string>
+    <string name="business_and_bills">Business and Bills</string>
+    <string name="explore">Explore</string>
+    <string name="bills">Bills</string>
+    <string name="recharge">Recharge</string>
+    <string name="spots">Spots</string>
+    <string name="new_payment">+ New payment</string>
+</resources>
